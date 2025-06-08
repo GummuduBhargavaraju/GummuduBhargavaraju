@@ -1,8 +1,3 @@
-# 💫 About Me:  Java | DSA | System Design
-I'm  Java | DSA | System Design | Software Developer
-
-
-
 
 # Hello World!, I'm Gummudu Bhargava Raju, Java | DSA | System Design 👋🏼:
 🛜 currently working on my own [webpage](https://willowy-elf-244d69.netlify.app/)<br>👨🏼‍🎓 Java | DSA | System Design | LeetCode - Solving DSA problems | Linkedin | <br>👨🏼‍💻 working as a Spring Boot since 2024 <br>🎬 Just started out with my youtube channel 
@@ -32,7 +27,8 @@ I'm  Java | DSA | System Design | Software Developer
 ![](https://nirzak-streak-stats.vercel.app/?user=GummuduBhargavaraju&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GummuduBhargavaraju&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
+
 [![](https://visitcount.itsvg.in/api?id=GummuduBhargavaraju&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
