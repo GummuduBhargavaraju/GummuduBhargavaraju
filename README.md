@@ -2,12 +2,18 @@
 I'm  Java | DSA | System Design | Software Developer
 
 
+
+
+# Hello World!, I'm Gummudu Bhargava Raju, Java | DSA | System Design 👋🏼:
+🛜 currently working on my own [webpage](https://willowy-elf-244d69.netlify.app/)<br>👨🏼‍🎓 Java | DSA | System Design | LeetCode - Solving DSA problems | Linkedin | <br>👨🏼‍💻 working as a Spring Boot since 2024 <br>🎬 Just started out with my youtube channel 
+<i>Bhargav_2B</i>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhargav_2b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhargav2b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BhargavRokey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@Bhargav_2B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhargavgummudu@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhargav_2b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhargav2b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BhargavRokey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@Bhargav_2B) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhargavgummudu@gmail.com)
 
-# 💻 Tech Stack:
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -18,15 +24,7 @@ I'm  Java | DSA | System Design | Software Developer
  ![Git_GitHub](https://img.shields.io/badge/Git_GitHub-%235391FE.svg?style=for-the-badge&logo=Git_GitHub&logoColor=white) 
   ![LeetCode_Solving_DSA_problems](https://img.shields.io/badge/LeetCode_Solving_DSA_problems--%23FF9900.svg?style=for-the-badge&logo=LeetCode_Solving_DSA_problems=white) ![Linkedin](https://img.shields.io/badge/Linkedin-%234285F4.svg?style=for-the-badge&logo=google-Linkedin&logoColor=white) 
 
-
-
-
-
-
-
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 # 📊 GitHub Stats:
