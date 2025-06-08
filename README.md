@@ -22,18 +22,17 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GummuduBhargavaraju&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GummuduBhargavaraju&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GummuduBhargavaraju&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=GummuduBhargavaraju&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GummuduBhargavaraju&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GummuduBhargavaraju&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-[![](https://visitcount.itsvg.in/api?id=GummuduBhargavaraju&icon=5&color=1)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=GummuduBhargavaraju&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GummuduBhargavaraju/GummuduBhargavaraju/output/github-snake-dark.svg" />
@@ -45,15 +44,7 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GummuduBhargavaraju&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GummuduBhargavaraju&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GummuduBhargavaraju&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=GummuduBhargavaraju&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
