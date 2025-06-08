@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+About Me : Java | DSA | System Design | 
 I'm software developer
 
 
